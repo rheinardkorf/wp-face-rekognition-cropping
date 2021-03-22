@@ -12,8 +12,8 @@
  * Version: 0.1-alpha
  * Author: Rheinard Korf
  * Author URI: https://rheinardkorf.com
- * License: GPL2
- * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * License: GPLv3
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain: face-rekog-crop
  * Domain Path: /languages
  */
