@@ -1,10 +1,10 @@
 {
-    "name": "rheinardkorf/face-rekognition-cropping",
+    "name": "rheinardkorf/wp-face-rekognition-cropping",
     "description": "A plugin for face cropping.",
     "authors": [
         {
             "name": "Rheinard Korf",
-            "email": "rheinard.korf@xwp.co"
+            "email": "rheinard@thekorfs.com"
         }
     ],
     "require-dev": {
